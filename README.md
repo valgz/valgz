@@ -1,5 +1,5 @@
 ## 🙋‍♀️ Hi, I’m Valeria Gonzalez
-### 📌 I have a degree in psychology and I am passionate about the field of Big Data and Artificial Intelligence.
+### 📌 I am a graduate in psychology and I am passionate about the field of Big Data and Artificial Intelligence.
 ### 🌱 I am currently a student of Keepcoding's "Women in Tech" bootcamp.
 ### 📫 Checkout my LinkedIn to know more about me: https://www.linkedin.com/in/valeria-gonzalez-guerrero/
 
