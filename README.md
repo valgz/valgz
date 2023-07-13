@@ -1,7 +1,7 @@
 ## 🙋‍♀️ Hi, I’m Valeria Gonzalez
 📌 I am a graduate in psychology and I am passionate about the field of Big Data and Artificial Intelligence.
 
-🌱 I am currently a student of Keepcoding's "Women in Tech" bootcamp.
+🌱 I am currently working a Bluetab, an IBM Company.
 
 📫 Checkout my LinkedIn to know more about me: https://www.linkedin.com/in/valeria-gonzalez-guerrero/
 
